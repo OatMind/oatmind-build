@@ -1,0 +1,11 @@
+{
+  "version": "v0.0.28",
+  "notes": "Test Updater",
+  "pub_date": "2025-02-17T19:25:57Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",
+      "url": "https://github.com/OatMind/oatmind-build/releases/download/v0.0.28/app-x64-setup.nsis.zip"
+    }
+  }
+}
