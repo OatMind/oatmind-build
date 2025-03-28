@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.29",
-  "notes": "Test Updater",
-  "pub_date": "2025-02-20T19:25:57Z",
+  "version": "v0.1.1",
+  "notes": "First Init Version",
+  "pub_date": "2025-03-28T13:01:30Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmtaMWZXYVNoZTdPVWZja0ZXK3ZiMEdtTktpbnBqTWxyNzUwRENCNllnbGRpTWtpOUNYRVc3bmtlNG4yQ3IrTU03akhsa0UzalVudVRsN0ZzdjVNZXkwTXJtYU5UWndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwMDM4NDI0CWZpbGU6T2F0TWluZF8wLjAuMjlfeDY0X2VuLVVTLm1zaQpEbXR1MXFhYk53UG9ZMG9penF4WVZBMEJsY3Jjc1VsVElTVlFONm43R1hENm9QcFpDL3BRR1JxdzVJWU15eGRUSTJhYnhPcHpiMlZkNDhZZGtiNXlCZz09Cg==",
-      "url": "https://github.com/OatMind/oatmind-build/releases/download/0.0.29/OatMind_0.0.29_x64_en-US.msi"
+      "url": "https://github.com/OatMind/oatmind-build/releases/download/0.1.1/OatMind_0.1.1_x64-setup.exe"
     }
   }
 }
