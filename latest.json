@@ -4,7 +4,7 @@
   "pub_date": "2025-04-08T00:20:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDdCQTFBNDU5NUY5RDkxMkYKUldRdmtaMWZXYVNoZThVOXBXYk5ySTIxZlRZSkNaRWJudWJBTjJ6aktUSVA5K21od05oZjU1bi8K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmtaMWZXYVNoZTlKSDNPMjd1OHp3dGx3UlFSek1iWGFWZTBQTW9nSkFLUExyQlA5enhaaEQwaTM3SWhkK0U3Y1UrSkhlQ0N3VGpGakx3VitRWTgyTDd3ZFBIMUhzWlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MDk1MDY5CWZpbGU6T2F0TWluZF8wLjEuNV94NjQtc2V0dXAuZXhlCmVqY2JPZWFGaGFVUGEyM0tpd2c4SndENjZpRXFFZTFTT00xV0Rubm5UUENuRGNnWm9vNmNkTldjcWkzRU5OVFNEa0ZBOWc3WEZIUXFEZEVoclJtZEF3PT0K",
       "url": "https://github.com/OatMind/oatmind-build/releases/download/0.1.5/OatMind_0.1.5_x64-setup.exe"
     }
   }
