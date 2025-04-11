@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.5",
-  "notes": "https://github.com/OatMind/oatmind-build/releases/tag/0.1.5",
-  "pub_date": "2025-04-08T00:31:00Z",
+  "version": "v0.1.6",
+  "notes": "https://github.com/OatMind/oatmind-build/releases/tag/0.1.6",
+  "pub_date": "2025-04-11T00:31:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmtaMWZXYVNoZTlKSDNPMjd1OHp3dGx3UlFSek1iWGFWZTBQTW9nSkFLUExyQlA5enhaaEQwaTM3SWhkK0U3Y1UrSkhlQ0N3VGpGakx3VitRWTgyTDd3ZFBIMUhzWlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MDk1MDY5CWZpbGU6T2F0TWluZF8wLjEuNV94NjQtc2V0dXAuZXhlCmVqY2JPZWFGaGFVUGEyM0tpd2c4SndENjZpRXFFZTFTT00xV0Rubm5UUENuRGNnWm9vNmNkTldjcWkzRU5OVFNEa0ZBOWc3WEZIUXFEZEVoclJtZEF3PT0K",
-      "url": "https://github.com/OatMind/oatmind-build/releases/download/0.1.5/OatMind_0.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmtaMWZXYVNoZTdScVIyUjVZRWpRRVIydzVXYnR4MEw4Vko4RkJXMy9rS2FiblNhc3luWGhZUjlpbkRLRVh0Qm50QmEyVTZTcG10Rk1vb3FkVUovYVhWK016bTZRNEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MTg3MDg4CWZpbGU6T2F0TWluZF8wLjEuNl94NjQtc2V0dXAuZXhlCjFYbDdKU3NxaEI5bVhPVHlqY3NNQ1U2WWEzL0VUYmJIQWdaaWtORXlKam5yT0dadWNmNkcwQ3ZOMklEOHV2NFZjUlB0RURkc3NzK211aEd6UmJwSURnPT0K",
+      "url": "https://github.com/OatMind/oatmind-build/releases/download/0.1.6/OatMind_0.1.6_x64-setup.exe"
     }
   }
 }
