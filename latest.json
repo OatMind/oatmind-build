@@ -1,7 +1,7 @@
 {
     "version": "v0.2.0",
     "notes": "https://github.com/OatMind/oatmind-build/releases/tag/0.2.0",
-    "pub_date": "2025-05-04T03:11:00Z"
+    "pub_date": "2025-05-04T03:11:00Z",
     "platforms": {
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmtaMWZXYVNoZTBZNDhlbklOVDJzUFpkbTNCbHZPYjEyUXY4ZkRBUitrQTNmSDUrVTlpTFhxQk9pR0hCZ0VES2RXWDNsMjZCZjNRaVpFVGpod0xFdjl1YlJEcFQxL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NTA0MTM0CWZpbGU6T2F0TWluZF8wLjIuMF94NjQtc2V0dXAuZXhlClV3UlkrRk1KUE9IUmsraHJPN2ltQnBnTWFwNWg5M0p6Skp4TmtmeFBKTDlJN2MyNENaODdHQmdibDlVYVlwZWdKbnFoSmZpaVhWcU9mV04xbWlPZEFnPT0K",
