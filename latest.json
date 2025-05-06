@@ -1,15 +1,15 @@
 {
-    "version": "v0.1.8",
-    "notes": "https://github.com/OatMind/oatmind-build/releases/tag/0.1.8",
-    "pub_date": "2025-04-22T00:31:00Z",
+    "version": "v0.2.0",
+    "notes": "https://github.com/OatMind/oatmind-build/releases/tag/0.2.0",
+    "pub_date": "2025-05-04T03:11:00Z"
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmtaMWZXYVNoZTMxZnY5Q21GaFJrRmsxYkNnbXZkbGptWTMrR0JzTktKS3hoOG1IZ3VCbFVRRGhwakxZZCtBUTQyMnhYSjRDY1QwcjBIMUtQYmM4YllhN1duRjNoa0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1Mjk0MDgxCWZpbGU6T2F0TWluZF8wLjEuOF94NjQtc2V0dXAuZXhlCjB1anV6aThXd2pBa2xoSk1OLzRXTkVSV0VtaUdESlNiY1FqN3hSdVZZVStxL0NPOWFldUNqUDcvaFZEQXdMR1o5QkFxUlFmdHpseGRPNVFuVHZEd0NBPT0K",
-            "url": "https://github.com/OatMind/oatmind-build/releases/download/0.1.8/OatMind_0.1.8_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmtaMWZXYVNoZTBZNDhlbklOVDJzUFpkbTNCbHZPYjEyUXY4ZkRBUitrQTNmSDUrVTlpTFhxQk9pR0hCZ0VES2RXWDNsMjZCZjNRaVpFVGpod0xFdjl1YlJEcFQxL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NTA0MTM0CWZpbGU6T2F0TWluZF8wLjIuMF94NjQtc2V0dXAuZXhlClV3UlkrRk1KUE9IUmsraHJPN2ltQnBnTWFwNWg5M0p6Skp4TmtmeFBKTDlJN2MyNENaODdHQmdibDlVYVlwZWdKbnFoSmZpaVhWcU9mV04xbWlPZEFnPT0K",
+            "url": "https://github.com/OatMind/oatmind-build/releases/download/0.2.0/OatMind_0.2.0_x64-setup.exe"
         },
         "macos": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmtaMWZXYVNoZTA0WlJ2NHFYNGNTNUlGQnkrVGlVRUt1LzE1NmthUEZxWklkVng4eDltYUR4Vmp2VW1oS1k4cWxJUkVlSWp6Tzl6Nk90cGI3QnJpdTIwUlFlUm5WUUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MzY2MTE4CWZpbGU6T2F0TWluZC5hcHAudGFyLmd6Clo0YUhvUEZVZ0d3Y2dvOUxYUENqK2pqakdOc20vaHY3Ym9lWTVlV1dhWGsyWjU1bHdDdzQxUVYvVWdWbzRvenZkYjcyQTluamduYWphSlYxU2h0MUFRPT0K",
-            "url": "https://github.com/OatMind/oatmind-build/releases/download/0.1.8/OatMind.app.tar.gz"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmtaMWZXYVNoZTVYY0EzWDBHS0FRZkFZQUhVKyt6MzE1UGJMK0JjN1NBemFVQ0lndnEzeFBFalBodlFWZUNKaHM1WmJyZnRVVm1pc2FQLzQyelJyTHVsdUNCaUtSV0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NTAzNjQwCWZpbGU6T2F0TWluZC5hcHAudGFyLmd6CmlZcmV2OEl6WXM5S0dIcmg0L2tTWG51VkUwb2FwOFhhR1p1d3VQOWg0ZDdFWGh3alpxbG54OHlIZ0xOTXUyZE1EaDNteUI1VkIyaWkxM1I4UGV1d0FBPT0K",
+            "url": "https://github.com/OatMind/oatmind-build/releases/download/0.2.0/OatMind_0.2.0_universal.dmg"
         }
     }
 }
